@@ -1,0 +1,3 @@
+"Sales peaked in [month/year] due to high demand in [category]."
+"Top region is [region] with [amount] in profit."
+"Profit margin is [percentage]—focus on low-margin products."
